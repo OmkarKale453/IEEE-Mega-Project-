@@ -1,4 +1,5 @@
-# IEEE-Mega-Project
+# Team Name:
+InnovaterX
 
 # College Name:
 Dr. D. Y. School of Science and Technology
